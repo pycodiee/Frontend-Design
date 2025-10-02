@@ -41,8 +41,7 @@ resume-landing-page/
 
 ## 🌐 Live Demo
 
-[🔗 View Project on GitHub Pages](#)
-(Replace `#` with your GitHub Pages link after hosting)
+https://frontend-design-orpin.vercel.app/
 
 ---
 
